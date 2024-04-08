@@ -3,3 +3,4 @@ jupyterlab
 aiohttp
 fsspec
 h5py
+optax
